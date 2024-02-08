@@ -1,0 +1,6 @@
+@STILA.WebApi_HostAddress = http://localhost:5081
+
+GET {{STILA.WebApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
